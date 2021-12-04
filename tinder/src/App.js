@@ -1,7 +1,7 @@
 import './App.css';
 import Header from './Header';
 import React from 'react'
-import TinderCard from './TinderCard';
+import TinderCards from './TinderCards';
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
 
 
 
-       <TinderCard />
+       <TinderCards />
 
 
 
