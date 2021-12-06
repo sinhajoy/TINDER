@@ -5,8 +5,8 @@ import TinderCard from 'react-tinder-card'
 function TinderCards() {
     const [people, setPeople]=useState([
         {
-            name:'Joy Sinha',
-            url:"https://image.cnbcfm.com/api/v1/image/106806377-1607090600215-gettyimages-1229893101-AFP_8WA6E2.jpeg?v=1633365296&w=929&h=523",
+            name:'Victoria',
+            url:"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fe/ac/kolkata-calcutta.jpg?w=1200&h=-1&s=1",
         },
         {
             name:'Arpan Kool',

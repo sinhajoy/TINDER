@@ -25,6 +25,7 @@
 
 .card h3{
     position: absolute;
+    font-family: sans-serif;
     bottom: 0;
     margin: 10;
     color: #fff;
