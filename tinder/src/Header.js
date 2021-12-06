@@ -22,9 +22,6 @@ function Header() {
                 <ForumIcon ontSize="large" className="header_icon"/>
             </IconButton>
 
-
-
-
         </div>        
     )
 }
