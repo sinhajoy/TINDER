@@ -14,7 +14,7 @@ function Header() {
 
             <img
             className="header_logo"
-            src="https://1000logos.net/wp-content/uploads/2018/07/Tinder-icon-3.png"
+            src="https://www.citypng.com/public/uploads/preview/-11595270983sekxed5idc.png"
             alt=""
             />
 
