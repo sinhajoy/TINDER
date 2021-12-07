@@ -4,7 +4,7 @@ const app=express();
 import Cards from './dbCards.js';
 import Cors from "cors";
 import "./conn.js";
-const port=8001
+const port=8080
 
 app.use(express.json())
 app.use(Cors());
